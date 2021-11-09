@@ -1,2 +1,2 @@
 # About Me
-A student @ CST
+A student
